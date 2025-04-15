@@ -1,12 +1,12 @@
-2025-04-13 21:27:00.283477 - Received CBT.V508.FILE639.PDS from FILE639.XMI 
-2025-04-13 21:27:00.284401 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:27:00.284480 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$NOTE1
-2025-04-13 21:27:00.284544 - Found $$PROCS.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$PROCS
-2025-04-13 21:27:00.284604 - Found $$RACF.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$RACF
-2025-04-13 21:27:00.284663 - Found @ASSMSBG.jcl (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@ASSMSBG
-2025-04-13 21:27:00.284727 - Found @FILE639.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@FILE639
-2025-04-13 21:27:00.284791 - Found @INSTALL.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@INSTALL
-2025-04-13 21:27:00.284863 - Found @USERGDE.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@USERGDE
-2025-04-13 21:27:00.284941 - Found @USERGD1.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@USERGD1
-2025-04-13 21:27:00.285005 - Found COMPILE.jcl (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/COMPILE
-2025-04-13 21:27:00.285158 - Found SETHOUR.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/SETHOUR
+2025-04-15 04:09:17.208269 - Received CBT.V508.FILE639.PDS from FILE639.XMI 
+2025-04-15 04:09:17.209696 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:09:17.209888 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$NOTE1
+2025-04-15 04:09:17.210126 - Found $$PROCS.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$PROCS
+2025-04-15 04:09:17.210351 - Found $$RACF.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/$$RACF
+2025-04-15 04:09:17.210540 - Found @ASSMSBG.jcl (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@ASSMSBG
+2025-04-15 04:09:17.210884 - Found @FILE639.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@FILE639
+2025-04-15 04:09:17.211195 - Found @INSTALL.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@INSTALL
+2025-04-15 04:09:17.211437 - Found @USERGDE.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@USERGDE
+2025-04-15 04:09:17.211700 - Found @USERGD1.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/@USERGD1
+2025-04-15 04:09:17.211874 - Found COMPILE.jcl (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/COMPILE
+2025-04-15 04:09:17.212590 - Found SETHOUR.txt (text/plain) in CBT.V508.FILE639.PDS, moved to PDS/SETHOUR
